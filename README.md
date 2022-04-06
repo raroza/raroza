@@ -14,7 +14,4 @@
 <div> 
   <a href = "mailto:rarosa@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raroza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/raroza/raroza/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
