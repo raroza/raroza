@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I want to work with backend
 - 🌱 I’m currently learning JS and python
 
 <div align="center">
