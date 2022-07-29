@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
 
 <div align="center">
   <a href="https://github.com/rarorza">
