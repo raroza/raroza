@@ -7,6 +7,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rarorza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rarorza&&layout=compact&langs=cont=7&theme=dark"/>
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rarorza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rarorza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rarorza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rarorza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rarorza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rarorza-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/79066006/181707557-84e4da62-490a-4d48-9548-f03303ff8b05.gif">
+</div>
   
    ##
  
