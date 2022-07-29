@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2033,100:180b33&height=210&section=header&text=Rafael%20R%20Rosa&fontSize=30&fontColor=ccc&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2033,100:32156b&height=210&section=header&text=Rafael%20R%20Rosa&fontSize=30&fontColor=ccc&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
 <div align="center">
   <a href="https://github.com/rarorza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rarorza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rarorza&&layout=compact&langs=cont=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rarorza&show_icons=true&count_private=true&hide_border=true&title_color=ccc&icon_color=32156b&text_color=ccc&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarorza&layout=compact&hide_border=true&title_color=ccc&text_color=ccc&bg_color=0d1117"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -16,8 +16,6 @@
   <img align="right" alt="Luffy-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">
 </div>
 
-![one-piece-monkey-d-luffy](https://user-images.githubusercontent.com/79066006/181712532-53924463-0538-4616-b56a-44881e4ea33e.gif)
-  
   ##
   
 <div> 
