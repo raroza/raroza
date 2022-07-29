@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rafael R Rosa
 
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python.
 
@@ -15,7 +15,7 @@
   <img align="center" alt="Rarorza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rarorza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Luffy Gif" height="50" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">
+  <img align="right" alt="Luffy Gif" height="150" style="border-radius:50px" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">
 </div>
   
   ##
