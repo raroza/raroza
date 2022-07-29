@@ -13,7 +13,7 @@
   <img align="center" alt="Rarorza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rarorza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rarorza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rarorza-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/63MMfGUKHlgAAAAM/one-piece-monkey-d-luffy.gif">
+  <img align="right" alt="Rarorza-pic" height="100" style="border-radius:50px;" src="https://c.tenor.com/63MMfGUKHlgAAAAM/one-piece-monkey-d-luffy.gif">
 </div>
   
    ##
