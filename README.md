@@ -1,5 +1,7 @@
 ### Rafael R Rosa
 
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
+
 <div align="center">
   <a href="https://github.com/rarorza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rarorza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
