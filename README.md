@@ -1,6 +1,4 @@
-### Rafael R Rosa
-
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2033,100:180b33&height=210&section=header&text=Rafael%20R%20Rosa&fontSize=30&fontColor=ccc&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
 <div align="center">
   <a href="https://github.com/rarorza">
@@ -17,6 +15,8 @@
   
   <img align="right" alt="Luffy-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">
 </div>
+
+![one-piece-monkey-d-luffy](https://user-images.githubusercontent.com/79066006/181712532-53924463-0538-4616-b56a-44881e4ea33e.gif)
   
   ##
   
