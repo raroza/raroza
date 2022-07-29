@@ -13,7 +13,7 @@
   <img align="center" alt="Rarorza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rarorza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Luffy-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif">
+  <img align="right" alt="Luffy-gif" height="150" style="border-radius:50px;" src="https://tenor.com/view/one-piece-monkey-d-luffy-straw-hat-luffy-lol-gif-16566941">
 </div>
 
   ##
