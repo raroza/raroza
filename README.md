@@ -1,4 +1,4 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0505,100:6b1515&height=210&section=header&text=Rafael%20R%20Rosa&fontSize=30&fontColor=ccc&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">-->
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0505,100:6b1515&height=210&section=header&text=Rafael%20R%20Rosa&fontSize=30&fontColor=ccc&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">->
 
 <div align="center">
   <a href="https://github.com/rarorza">
