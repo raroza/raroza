@@ -4,7 +4,7 @@ Web Developer
 <div align="center">
   <a href="https://github.com/rarorza">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rarorza&show_icons=true&count_private=true&hide_border=true&title_color=ccc&icon_color=6b1515&text_color=ccc&bg_color=22272e"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarorza&layout=compact&hide_border=true&title_color=ccc&text_color=ccc&bg_color=22272e&hide=lua,vim_script"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarorza&layout=compact&hide_border=true&title_color=ccc&text_color=ccc&bg_color=22272e&hide=lua,vim"/>
 </div>
 
 ## Skills
