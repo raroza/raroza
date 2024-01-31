@@ -1,5 +1,5 @@
 
-Back End Developer
+Full Stack Developer
 -------------
 <div align="center">
   <a href="https://github.com/rarorza">
@@ -15,6 +15,7 @@ Back End Developer
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"><img align="center" alt="rarorza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img align="center" alt="rarorza-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="center" alt="rarorza-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img align="center" alt="rarorza-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
 </div>
 
 ## Contact
